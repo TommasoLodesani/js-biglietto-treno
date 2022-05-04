@@ -35,6 +35,7 @@ if (eta < 18){
 
 }
 
+prezzoTotBiglietto = prezzoTotBiglietto.toFixed(2);
 
 // output
 
