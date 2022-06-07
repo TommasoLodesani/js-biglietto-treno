@@ -37,6 +37,8 @@ if (eta < 18){
 
 prezzoTotBiglietto = prezzoTotBiglietto.toFixed(2);
 
+
+
 // output
 
 document.getElementById("prezzo_biglietto").innerHTML = "Il prezzo totale del tuo biglietto è " + prezzoTotBiglietto;
